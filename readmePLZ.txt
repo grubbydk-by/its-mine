@@ -1,1 +1,3 @@
 тест 1 Юрий Кострубенко qa manual 16.10.25
+
+Bye bye, cruel world =)
